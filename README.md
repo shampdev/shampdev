@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**shampdev/shampdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python и C# разработчик. Делаю Telegram-ботов, парсеры, скрипты автоматизации и десктоп-приложения.
 
-Here are some ideas to get you started:
+### Чем могу помочь
+- Telegram-боты: запись клиентов, приём заявок, магазины, админ-панели, рассылки
+- Парсинг сайтов с выгрузкой в Excel и Google Таблицы
+- Автоматизация рутины: скрипты, обработка файлов, отчёты
+- Десктоп-приложения на C# / WPF, клиент-сервер
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+**Python:** aiogram 3, asyncio, SQLite, openpyxl  
+**C#:** .NET, WPF  
+**Инструменты:** Git, GitHub
+
+### Проекты
+- [telegram-booking-bot](https://github.com/shampdev/telegram-booking-bot) — бот онлайн-записи в салон: календарь, отзывы, админ-панель, выгрузка в Excel
+
