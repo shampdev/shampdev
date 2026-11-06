@@ -14,4 +14,4 @@ Python и C# разработчик. Делаю Telegram-ботов, парсе�
 
 ### Проекты
 - [telegram-booking-bot](https://github.com/shampdev/telegram-booking-bot) — бот онлайн-записи в салон: календарь, отзывы, админ-панель, выгрузка в Excel
-
+- [books-parser](https://github.com/shampdev/books-parser) — парсер интернет-магазина: 1000 товаров, перевод на русский, выгрузка в Excel со сводкой
